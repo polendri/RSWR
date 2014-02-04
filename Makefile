@@ -2,7 +2,7 @@ EXECUTABLE = game
 
 CPP = g++
 
-CPPFLAGS = -c -Wall -O3 -I ./include
+CPPFLAGS = -c -Wall -O3 -std=c++98 -I ./include
 
 LIBS = -lX11
 
