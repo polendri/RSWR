@@ -13,6 +13,7 @@ I keep this thing around since it holds some personal charm to me. What follows
 is the information and instructions I had to hand in when submitting it for the
 course.
 
+<div>
 /------------------------------------\
 | RAINBOW STALIN'S WILD RIDE         |
 |                                    |
@@ -115,3 +116,4 @@ ignore them.)
   (since just using the VM at all is slow). All this to say that I chose not to
   double-buffer because I saw no need in my own testing; so if things are a bit
   flickery when you run it, please don't take off marks!
+</div>
