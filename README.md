@@ -1,3 +1,18 @@
+Rainbow Stalin's Wild Ride
+==========================
+
+This repository is no longer being maintained.
+
+![RSWR screenshot](screenshots/screenshot.png)
+
+It's a very simplistic game written under a timeframe for a user interfaces
+course at UWaterloo, and its borderline-inappropriate theme is inspired by a
+a popular internet meme you can witness [here](http://psapin.github.io/).
+
+I keep this thing around since it holds some personal charm to me. What follows
+is the information and instructions I had to hand in when submitting it for the
+course.
+
 /------------------------------------\
 | RAINBOW STALIN'S WILD RIDE         |
 |                                    |
